@@ -8,6 +8,8 @@ I am slowly wanting to intergrate my practice into more software based products.
 ### Other Projects I want to make:
 
 1. Pomodoro timer with a language like Python for my Raspberry Pi 3. With a digital touch display. This will help manage my time when I am working on projects. 
+2. Jewellery Website using Liquid
+3. Bio/ Shop Website also using Liquid
 
 #### :^)
 
