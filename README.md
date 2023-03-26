@@ -16,7 +16,7 @@ I am slowly wanting to intergrate my practice into more software based products.
 ## Learning:
 <ul>
   <li>Rust</li>
-  <li> TypsScript</li>
+  <li> TypeScript</li>
   <li> Python </li>
 </ul>  
 
