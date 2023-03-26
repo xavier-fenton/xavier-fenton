@@ -16,7 +16,7 @@ I am slowly wanting to intergrate my practice into more software based products.
 ## Current Learning:
 <ul>
   <li> :crab: Rust</li>
-  <li> TypeScript</li>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <li> Python </li>
 </ul>  
 
