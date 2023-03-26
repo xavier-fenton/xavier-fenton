@@ -13,14 +13,14 @@ I am slowly wanting to intergrate my practice into more software based products.
 
 #### :^)
 
-## Learning:
+### Learning:
 <ul>
   <li>Rust</li>
   <li> TypeScript</li>
   <li> Python </li>
 </ul>  
 
-## CurrentProject: 
+### CurrentProject: 
 
 #### Writer Blog w/ React
 <!---
