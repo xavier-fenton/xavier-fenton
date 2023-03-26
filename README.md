@@ -17,6 +17,7 @@ I am slowly wanting to intergrate my practice into more software based products.
 <ul>
   <li> :crab: Rust</li>
   <li> TypeScript</li>
+  <li> Python </li>
 </ul>  
 
 ## CurrentProject: 
