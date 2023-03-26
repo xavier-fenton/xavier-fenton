@@ -15,8 +15,8 @@ I am slowly wanting to intergrate my practice into more software based products.
 
 ## Current Learning:
 <ul>
-  :crab: Rust
-  TypeScript
+  <li> :crab: Rust</li>
+  <li> TypeScript</li>
 </ul>  
 
 ## CurrentProject: 
