@@ -13,16 +13,16 @@ I am slowly wanting to intergrate my practice into more software based products.
 
 #### :^)
 
-## Current Learning:
+## Learning:
 <ul>
-  <li> :crab: Rust</li>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <li>Rust</li>
+  <li> TypsScript</li>
   <li> Python </li>
 </ul>  
 
 ## CurrentProject: 
 
-#### Romily Marbrook Writer Blog
+#### Writer Blog w/ React
 <!---
 xavier-fenton/xavier-fenton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
