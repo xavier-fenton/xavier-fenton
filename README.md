@@ -13,6 +13,8 @@ I am slowly wanting to intergrate my practice into more software based products.
 
 #### :^)
 
+## Current Learning:
+:crab: Rust
 
 ## CurrentProject: 
 
