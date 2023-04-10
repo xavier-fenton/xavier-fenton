@@ -1,4 +1,4 @@
-## Hi, I’m @xavier-fenton.
+## @xavier-fenton.
 
 
 I am currently building web applications. 
