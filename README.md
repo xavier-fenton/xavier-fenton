@@ -1,9 +1,6 @@
 ## @xavier-fenton
 
 
-I am currently building web applications. 
-I am slowly wanting to intergrate my practice into more software based products. For now, I'll focus the Web Development...
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠤⠖⠒⠲⣤⠀
 ⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣴⣞⣁⠀⠀⠀⠀⠀⠀⠆
 ⠀⠀⠀⠀⣠⣶⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀
@@ -36,14 +33,11 @@ I am slowly wanting to intergrate my practice into more software based products.
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀
 
-### Learning:
+
 <ul>
   <li>Rust</li>
   <li> TypeScript</li>
   <li> Python </li>
 </ul>  
 
-### CurrentProjects: 
 
-#### Writer Blog w/ React
-#### Graphic Designer Portfolio  w/ React
