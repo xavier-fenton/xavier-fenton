@@ -38,6 +38,10 @@
   <li>Rust</li>
   <li> TypeScript</li>
   <li> Python </li>
+  <li> JavaScript </li>
+  <li> C++ learner </li>
+  
+  
 </ul>  
 
 
