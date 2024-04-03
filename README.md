@@ -13,6 +13,6 @@
 </p>
 
 
-
+Current working on random_videos.org checkout the repo -> fullstack nextjs w/firebase project
 
 
