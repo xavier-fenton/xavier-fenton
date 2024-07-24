@@ -1,17 +1,7 @@
-## @xavier-fenton
-
-  
-██████ ██    ▓▓       ██    ████▄          ██
-  ██   ██▄▄  ▄▄ ▄▄▄▄  ██ ▄▄ ██ ██  ▄▄▄   ▄▄██
-  ██   ██▀██ ██ ██▀██ ██ ██ ██ ██ ██▀██ ██▀██
-  ██   ██ ██ ██ ██ ██ ██▐█▌ ██▄██ ▀▀ ██ ██ ██
-  ██   ██ ██ ██ ██ ██ ████  ██▀▀  ▄████ ██ ██
-  ██   ██ ██ ██ ██ ██ ██▐█▌ ██    ██ ██ ██ ██
-  ██   ██ ██ ██ ██ ██ ██ ██ ██    ██▄██ ██▄██
-  ▀▀   ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀     ▀▀▀▀  ▀▀▀▀
+@xavier-fenton
 
 
-  MMMMMMMMMMMMMMWKOkkkk0XWMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWKOkkkk0XWMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMKdc:::;;;::cxKNMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMK;'coddddddo:'.lNMMMMMMMMMMMMMMMMMMMMMM
 MMMMNKkkOXWx':dddddddddd;.,0WX0OOXWMMMMMMMMMMMMMMM
@@ -45,4 +35,3 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMKc',xWMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMWx,'cXMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMXc.;OMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMNl'dWMMMMMMMMMMMMMMMMMMM
-
